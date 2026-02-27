@@ -115,3 +115,4 @@ MODEL_CONFIG = "configs/sam2.1/sam2.1_hiera_l.yaml"
 wget https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_large.pt \
      -O checkpoints/sam2.1_hiera_large.pt
 ```
+# SAM2 Tracking App - version 1.0

@@ -31,3 +31,11 @@ checkpoints/*.pth
 # OS
 .DS_Store
 Thumbs.db
+# tracking result images (generated)
+result_frame_*.jpg
+frame0_full.jpg
+preview_frame_*.jpg
+roi_detection_preview.jpg
+sam2_mask_frame0.jpg
+pop_tracking_result.mp4
+tracking_results.pkl
